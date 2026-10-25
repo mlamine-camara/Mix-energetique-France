@@ -44,3 +44,15 @@ Mohamed Lamine Camara
 Data Analyst | Ingénieur SIG / Géomaticien
 
 Mon profil LinkedIn: Mohamed Lamine CAMARA · Mon profil GitHub: mlamine-camara
+
+
+## 📊 Visualisations du projet
+
+### Mix énergétique
+![Mix énergétique](4.%20Mix%20energetique.jpg)
+
+### Autonomie énergétique régionale
+![Autonomie énergétique](5.%20Autonomie%20energetique%20regionale.jpg)
+
+### Vulnérabilité énergétique régionale
+![Vulnérabilité énergétique](6.%20Vulnerabilite%20energetique%20regionale.jpg)
