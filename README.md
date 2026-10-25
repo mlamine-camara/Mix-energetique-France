@@ -48,32 +48,39 @@ Mon profil LinkedIn: Mohamed Lamine CAMARA · Mon profil GitHub: mlamine-camara
 
 ## 📊 Visualisations du projet
 
-### Mix énergétique
-![Mix énergétique](4.%20Mix%20energetique.jpg)
-Cette visualisation compare la répartition des différentes sources de production électrique entre les régions françaises. Elle permet d'identifier les spécificités du mix énergétique régional et les différences de structure de production.
-
-### Autonomie énergétique régionale
-![Autonomie énergétique](5.%20Autonomie%20energetique%20regionale.jpg)
-Cette analyse évalue la capacité des régions à couvrir leurs besoins en électricité grâce à leur propre production. Elle met en évidence les territoires excédentaires et ceux qui dépendent davantage des échanges avec les autres régions.
-
-### Vulnérabilité énergétique régionale
-![Vulnérabilité énergétique](6-vulnerabilite-energetique-regionale.jpg)
-Cette visualisation met en évidence les différences de vulnérabilité énergétique entre les régions françaises. Elle aide à repérer les territoires potentiellement plus dépendants des apports extérieurs pour satisfaire leur consommation électrique.
 
 ## 1. Consommation et production énergétique
 
 ![Consommation et production énergétique](<1. consommation et production energetique.jpg>)
 
-Ce graphique présente les données de production et de consommation énergétique utilisées pour l'analyse.
+Ce graphique présente les données de production et de consommation énergétique utilisées dans l'analyse.
 
 ## 2. Évolution de la production et de la consommation
 
 ![Évolution de la production et de la consommation](<2. Evolution de la production et consommation .jpg>)
 
-Cette visualisation permet d'observer les évolutions de la production et de la consommation sur la période étudiée.
+Cette visualisation permet d'observer l'évolution de la production et de la consommation sur la période étudiée.
 
 ## 3. Analyse des tensions sur le réseau
 
 ![Analyse des tensions sur le réseau](<3.Analyse des tensions sur le reseau.jpg>)
 
-Ce graphique aide à repérer les périodes de tension et à mieux comprendre l'équilibre entre production et consommation.
+Ce graphique aide à étudier les périodes de tension et l'équilibre entre production et consommation.
+
+## 4. Mix énergétique
+
+![Mix énergétique](<4. Mix energetique.jpg>)
+
+Cette visualisation compare la répartition des sources de production électrique et les différences de mix énergétique entre les régions.
+
+## 5. Autonomie énergétique régionale
+
+![Autonomie énergétique régionale](<5. Autonomie energetique regionale.jpg>)
+
+Cette analyse permet de comparer la capacité des régions à couvrir leur consommation électrique grâce à leur propre production.
+
+## 6. Vulnérabilité énergétique régionale
+
+![Vulnérabilité énergétique régionale](6-vulnerabilite-energetique-regionale.jpg)
+
+Cette visualisation met en évidence les différences de vulnérabilité énergétique entre les régions françaises.
