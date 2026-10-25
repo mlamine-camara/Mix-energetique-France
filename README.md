@@ -54,5 +54,5 @@ Mon profil LinkedIn: Mohamed Lamine CAMARA · Mon profil GitHub: mlamine-camara
 ### Autonomie énergétique régionale
 ![Autonomie énergétique](5.%20Autonomie%20energetique%20regionale.jpg)
 
-### Vulnérabilité énergétique régionale
+
 ![Vulnérabilité énergétique](https://raw.githubusercontent.com/mlamine-camara/Mix-energetique-France/main/6.%20Vuln%C3%A9rabilit%C3%A9%20energetique%20regionale.jpg)
