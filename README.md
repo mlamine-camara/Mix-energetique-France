@@ -50,12 +50,16 @@ Mon profil LinkedIn: Mohamed Lamine CAMARA · Mon profil GitHub: mlamine-camara
 
 ### Mix énergétique
 ![Mix énergétique](4.%20Mix%20energetique.jpg)
+Cette visualisation compare la répartition des différentes sources de production électrique entre les régions françaises. Elle permet d'identifier les spécificités du mix énergétique régional et les différences de structure de production.
 
 ### Autonomie énergétique régionale
 ![Autonomie énergétique](5.%20Autonomie%20energetique%20regionale.jpg)
+Cette analyse évalue la capacité des régions à couvrir leurs besoins en électricité grâce à leur propre production. Elle met en évidence les territoires excédentaires et ceux qui dépendent davantage des échanges avec les autres régions.
 
 ### Vulnérabilité énergétique régionale
 ![Vulnérabilité énergétique](6-vulnerabilite-energetique-regionale.jpg)
+Cette visualisation met en évidence les différences de vulnérabilité énergétique entre les régions françaises. Elle aide à repérer les territoires potentiellement plus dépendants des apports extérieurs pour satisfaire leur consommation électrique.
+
 ## 1. Consommation et production énergétique
 
 ![Consommation et production énergétique](<1. consommation et production energetique.jpg>)
