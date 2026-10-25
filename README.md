@@ -56,3 +56,20 @@ Mon profil LinkedIn: Mohamed Lamine CAMARA · Mon profil GitHub: mlamine-camara
 
 ### Vulnérabilité énergétique régionale
 ![Vulnérabilité énergétique](6-vulnerabilite-energetique-regionale.jpg)
+## 1. Consommation et production énergétique
+
+![Consommation et production énergétique](<1. consommation et production energetique.jpg>)
+
+Ce graphique présente les données de production et de consommation énergétique utilisées pour l'analyse.
+
+## 2. Évolution de la production et de la consommation
+
+![Évolution de la production et de la consommation](<2. Evolution de la production et consommation .jpg>)
+
+Cette visualisation permet d'observer les évolutions de la production et de la consommation sur la période étudiée.
+
+## 3. Analyse des tensions sur le réseau
+
+![Analyse des tensions sur le réseau](<3.Analyse des tensions sur le reseau.jpg>)
+
+Ce graphique aide à repérer les périodes de tension et à mieux comprendre l'équilibre entre production et consommation.
